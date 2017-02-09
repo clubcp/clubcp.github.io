@@ -1,1 +1,0 @@
-Este es el blog para el club de programación competitiva del ITESM Campus Querétaro.
