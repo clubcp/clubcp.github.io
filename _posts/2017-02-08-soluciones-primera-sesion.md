@@ -8,7 +8,7 @@ categories: solucion editorial código
 
 Los resultados del primer concurso de introducción fueron los siguientes:
 
-![Scoreboard]({{site.url}}/assets/scoreboard.png)
+![Scoreboard]({{site.url}}/assets/scoreboard1.png)
 
 ¡Felicidades a los que intentaron subir algún problema! 
 
